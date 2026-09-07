@@ -92,14 +92,15 @@ This repository is in showcase mode and intentionally excludes proprietary imple
 
 Please see [docs/PROJECT_STATUS.md](./docs/PROJECT_STATUS.md) for the evidence-backed status matrix.
 
-## Screenshot section (safe placeholders)
+## Screenshot section
 
-Until approved images are added, use placeholders below:
+Representative screenshots from a local Argus dashboard session:
 
-![Dashboard status overview placeholder](assets/screenshots/argus-status-overview.png)
-![Watchlist and alerts placeholder](assets/screenshots/argus-watch-alerts.png)
-![Portfolio and risk context placeholder](assets/screenshots/argus-portfolio-risk.png)
-![News and intelligence feed placeholder](assets/screenshots/argus-news-feed.png)
+![Dashboard status overview](./assets/screenshots/argus-status-overview.png)
+![Watchlist and alerts](./assets/screenshots/argus-watch-alerts.png)
+![Portfolio and risk context](./assets/screenshots/argus-portfolio-risk.png)
+![News and intelligence feed](./assets/screenshots/argus-news-feed.png)
+![Settings and model mapping](./assets/screenshots/argus-settings-models.png)
 
 ## Confidentiality and IP
 
