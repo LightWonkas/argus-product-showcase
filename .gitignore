@@ -1,0 +1,31 @@
+# macOS and Windows artifacts
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files (not part of showcase content)
+.env
+.env.*
+!.env.example
+
+# Python build/runtime artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / frontend artifacts (if demo tooling is added later)
+node_modules/
+dist/
+build/
+
+# Editor and system files
+.vscode/
+.idea/
+*.swp
+
+# Ignore accidental nested folder from previous publish attempts
+argus-product-showcase/
